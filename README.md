@@ -5,7 +5,7 @@ A data analysis project exploring behavioural differences between extroverts and
 ---
 ## 🔗 Live Dashboard
 
-👉 [View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/justice.sosu/viz/Book1_17496116143760/BehaviouralPattern?publish=yes)
+👉 [View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/justice.sosu/viz/Book1_17496116143760/BehaviouralPattern)
 
 ---
 
