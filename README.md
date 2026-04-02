@@ -77,7 +77,7 @@ A data analysis project exploring behavioural differences between extroverts and
 
 ---
 
-## Installation
+## 📥 Installation
 
 ```bash
 # Clone the repository
@@ -87,47 +87,62 @@ git clone https://github.com/jayso10/Personality-Pattern.git
 cd Personality-Pattern
 ---
 
-## Usage
+
+⸻
+
+🚀 Usage
 	1.	Open the Tableau dashboard using the live link above
 	2.	Interact with filters and charts to explore behavioural patterns
-	3.	Review different visualizations comparing extroverts and introverts
----
+	3.	Compare insights between extroverts and introverts across different metrics
 
-## 💡 Analysis & Visualizations
-	•	Going Outside:
-Extroverts go outside more frequently, while introverts show a rapid drop after a few outings
-	•	Post Frequency:
-Introverts are less active in posting (0–2 range), suggesting passive engagement
-Extroverts post more consistently across higher ranges
-	•	Time Spent Alone:
-Introverts dominate higher time-alone categories
-Extroverts are more present in lower ranges
-	•	Friends Circle Size:
-Extroverts generally maintain larger social circles
-Introverts tend to have smaller, closer groups
-	•	Social Event Attendance:
-Extroverts attend more events across all ranges
-Introverts cluster heavily in low attendance
-	•	Personality Distribution:
+⸻
+
+💡 Analysis & Visualizations
+
+Going Outside
+	•	Extroverts go outside more frequently
+	•	Introverts show a rapid drop after a few outings
+
+Post Frequency
+	•	Introverts are less active in posting (0–2 range), suggesting passive engagement
+	•	Extroverts post more consistently across higher ranges
+
+Time Spent Alone
+	•	Introverts dominate higher time-alone categories
+	•	Extroverts are more present in lower ranges
+
+Friends Circle Size
+	•	Extroverts generally maintain larger social circles
+	•	Introverts tend to have smaller, closer groups
+
+Social Event Attendance
+	•	Extroverts attend more events across all ranges
+	•	Introverts cluster heavily in low attendance
+
+Personality Distribution
 	•	51.4% Extroverts
 	•	48.6% Introverts
 
-## Conclusion
+⸻
+
+📌 Conclusion
 	•	Extroverts are more socially and visibly active across most metrics
 	•	Introverts engage differently, often more passively rather than visibly
 	•	Posting frequency alone does not fully represent online engagement
 	•	Personality traits strongly influence both digital and real-world behaviour
----
 
-## Credits
+⸻
+
+🙌 Credits
 	•	Author: Justice Sosu
 	•	Dataset Source: https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-data
 	•	Tools Used: Tableau Public, Microsoft Excel
----
 
-License
+⸻
+
+📄 License
 
 This project is licensed under the MIT License￼ – feel free to use and modify it.
 
-<p align="center"><strong>Thanks for visiting! 🚀</strong></p>
-```
+⸻
+
