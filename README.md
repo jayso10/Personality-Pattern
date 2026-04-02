@@ -9,20 +9,6 @@ A data analysis project exploring behavioural differences between extroverts and
 
 ---
 
-## Table of Contents
-
-- [Overview](#project-overview)  
-- [Dataset](#dataset)  
-- [Technologies Used](#technologies-used)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Analysis & Visualizations](#analysis--visualizations)  
-- [Conclusion](#conclusion)  
-- [Credits](#credits)  
-- [License](#license)  
-
----
-
 ## 📌 Project Overview
 
 - **Motivation:**  
@@ -79,23 +65,21 @@ A data analysis project exploring behavioural differences between extroverts and
 
 ## 📥 Installation
 
-```bash
+```
 # Clone the repository
 git clone https://github.com/jayso10/Personality-Pattern.git
 
 # Navigate to the project folder
 cd Personality-Pattern
+```
 ---
-
-
-⸻
 
 🚀 Usage
 	1.	Open the Tableau dashboard using the live link above
 	2.	Interact with filters and charts to explore behavioural patterns
 	3.	Compare insights between extroverts and introverts across different metrics
-
-⸻
+	
+---
 
 💡 Analysis & Visualizations
 
@@ -123,26 +107,27 @@ Personality Distribution
 	•	51.4% Extroverts
 	•	48.6% Introverts
 
-⸻
+---
 
 📌 Conclusion
+
 	•	Extroverts are more socially and visibly active across most metrics
 	•	Introverts engage differently, often more passively rather than visibly
 	•	Posting frequency alone does not fully represent online engagement
 	•	Personality traits strongly influence both digital and real-world behaviour
 
-⸻
+---
 
 🙌 Credits
 	•	Author: Justice Sosu
 	•	Dataset Source: https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-data
 	•	Tools Used: Tableau Public, Microsoft Excel
 
-⸻
+---
 
 📄 License
 
 This project is licensed under the MIT License￼ – feel free to use and modify it.
 
-⸻
+---
 
